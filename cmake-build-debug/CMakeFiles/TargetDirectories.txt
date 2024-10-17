@@ -1,0 +1,3 @@
+C:/Users/harry/Downloads/CarSales/cmake-build-debug/CMakeFiles/harrysCarSales.dir
+C:/Users/harry/Downloads/CarSales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/harry/Downloads/CarSales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
